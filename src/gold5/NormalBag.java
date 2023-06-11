@@ -1,8 +1,9 @@
+package gold5;
 import java.util.Scanner;
 
 // https://www.acmicpc.net/problem/12865
 
-public class Main {
+public class NormalBag {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
